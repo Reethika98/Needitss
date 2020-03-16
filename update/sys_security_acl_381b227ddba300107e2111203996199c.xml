@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_400134_needitss_needitss</description>
+        <name>x_400134_needitss_needitss</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-15 09:35:01</sys_created_on>
+        <sys_id>381b227ddba300107e2111203996199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400134_needitss_needitss</sys_name>
+        <sys_package display_value="needitss" source="x_400134_needitss">b6d9a2b9dba300107e211120399619f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needitss">b6d9a2b9dba300107e211120399619f9</sys_scope>
+        <sys_update_name>sys_security_acl_381b227ddba300107e2111203996199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-15 09:35:01</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="needitss" language="en" table="x_400134_needitss_needitss">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>needitss</label>
+            <language>en</language>
+            <name>x_400134_needitss_needitss</name>
+            <plural>needitss</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-15 09:35:01</sys_created_on>
+            <sys_id>341b227ddba300107e211120399619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>needitss</sys_name>
+            <sys_package display_value="needitss" source="x_400134_needitss">b6d9a2b9dba300107e211120399619f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="needitss">b6d9a2b9dba300107e211120399619f9</sys_scope>
+            <sys_update_name>sys_documentation_x_400134_needitss_needitss__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-15 09:35:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
